@@ -10,3 +10,7 @@
 Практична робота 3 "Захист комп'ютера від вірусів" [Клік](https://sharemods.com/1b9rjfdhybmu/Practical_work_3.docx.html)
 
 # Додаткові завдання
+
+Закріплення знань на практиці "Робота з об’єктами файлової системи" [Клік](https://sharemods.com/u8q7o0nn16o2/Practical_application_of_knowledge_Working_with_file_system_objects.docx.html)
+
+Доповідь на тему "Цікаві факти про програми-емулятори" [Клік](https://sharemods.com/ixiqj57hr5c2/Presentation_on_Interesting_facts_about_emulator_programs.docx.html)
